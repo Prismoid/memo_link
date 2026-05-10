@@ -10,3 +10,7 @@ Intrusion Detection System (IDS) の前身
 
 https://seclab.cs.ucdavis.edu/projects/history/papers/ande80.pdf
 
+
+# ゼロトラスト(Zero Trust): 2010
+
+https://media.paloaltonetworks.com/documents/Forrester-No-More-Chewy-Centers.pdf
